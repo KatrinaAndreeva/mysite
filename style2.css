@@ -41,6 +41,9 @@ p {
     height: 150px;
     float: left;
 }
+.main_blocks {
+    height: 300px;
+}
 .red {
     background-color: red;
 }
@@ -127,4 +130,53 @@ p {
     height: 60%;
     margin: auto 0;
     float: left;
+}
+.right_block {
+     width: 33.3%;
+    height: 300px;
+    float: left;
+    background-color: blue;
+}
+.white_block {
+    width: 33%;
+    background-color: white;
+    height: 60%;
+    margin-top: 24%;
+    float: left;
+}
+.orange_block {
+    width: 33%;
+    background-color: orange;
+    height: 60%;
+    margin-top: 20%;
+    float: left;
+}
+.pink_block {
+     width: 33%;
+    background-color: pink;
+    height: 60%;
+    margin-top: 10%;
+    float: left;
+}
+.right_text {
+    background-color: black;
+    color: white;
+    text-align: left;
+  
+    display: inline;
+    float: right;
+    width: 30px;
+}
+.left_text {
+    background-color: black;
+    color: white;
+    text-align: right;
+    margin-top: 60px;
+    display: inline;
+    width: 30px;
+}
+footer {
+    height: 200px;
+    width: 100%;
+    background-color: black;
 }
